@@ -1,0 +1,36 @@
+div#login
+{
+	border: 1px solid #bb8489 !important;
+	border-bottom: 2px solid #bb8489 !important;
+	border-top: none !important;
+}
+
+div#logintitle
+{
+	border: 1px solid #98325c !important;
+	border-bottom: 1px solid #952b54;
+	border-top: 1px solid #ad3b6a;
+	position: relative;
+	left: -1px;
+	z-index: 1;
+}
+div#logintitle span
+{
+	font-family: '华文细黑', sans-serif !important;
+}
+[class^="icon-"], [class*=" icon-"] { vertical-align: center !important; }
+button.main-btn
+{
+	background: #f48aa4;
+	color: #fff !important;
+	border: 1px solid #d17790;
+	border-bottom: 1px solid #e8778e;
+	padding: 10px 30px;
+}
+
+input.login-input
+{
+	position: relative;
+	top: -1px;
+	line-height: 30px !important;
+}

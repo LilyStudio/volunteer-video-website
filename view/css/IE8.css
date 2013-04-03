@@ -1,0 +1,42 @@
+div#login
+{
+	border: 1px solid #bb8489 !important;
+	border-bottom: 2px solid #bb8489 !important;
+	border-top: none !important;
+}
+
+div#logintitle
+{
+	border: 1px solid #98325c !important;
+	border-bottom: 1px solid #952b54;
+	border-top: 1px solid #ad3b6a;
+	position: relative;
+	left: -1px;
+	z-index: 1;
+}
+div#login #logintitle span { font-family: Georgia, tahoma, arial, '华文细黑', sans-serif; }
+button.main-btn
+{
+	background: #f48aa4;
+	color: #fff !important;
+	border: 1px solid #d17790;
+	border-bottom: 1px solid #e8778e;
+	padding: 10px 30px;
+}
+div#main{ 
+	border-bottom: 2px solid #b5788a !important;
+	border-left: 1px solid #c48b9a !important;
+	border-right: 1px solid #c48b9a !important;
+	border-top: 1px solid #a8618b !important; }
+
+div#copyright
+{
+	border-bottom: 3px solid #bc8689 !important;
+	border-left: 1px solid #c48d8f !important;
+	border-right: 1px solid #c48d8f !important;
+	border-top: 1px solid #cb9395 !important;
+	font-size: 12px !important;
+}
+div#left-panel: {}
+div.fancyboxform input{ height: 25px !important; }
+div#config a i { vertical-align: center !important; }

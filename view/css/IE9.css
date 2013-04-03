@@ -1,0 +1,9 @@
+button.main-btn
+{
+	border: none !important;
+}
+.progress,.progress-success, .progress-striped
+{
+	border-radius: none !important;
+	border-radius: 0px !important;
+}

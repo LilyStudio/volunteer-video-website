@@ -1,0 +1,35 @@
+body{ font: 12px/1.5 Georgia, tahoma, arial, sans-serif !important; }
+
+#loginbtn,#all,#modify,#video{margin-left:30px;margin-top:20px;}
+
+#top a{margin-right:35px;}
+
+#top{margin-bottom:12px;}
+
+table{border: 2px solid  #98bf21;border-collapse:collapse;margin-bottom:15px;margin-top:15px;}
+
+th{font-size:1.1em;
+  text-align:center;
+  background-color:#A7C942;
+  color:#ffffff;
+width:100px;
+ }
+td{text-align:center;
+   font-size:0.8em;
+  border:1px solid #98bf21;
+  padding:3px 7px 2px 7px;
+  width:100px;
+}
+
+tr{
+
+}
+
+#modify .btn{margin-top:10px;margin-left:70px;}
+
+#feedback {
+	position: absolute;
+	left: 500px;
+	top: 45px;
+	margin: 20px;
+}
